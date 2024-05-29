@@ -1,4 +1,3 @@
-
 let userSeq=[];
 let gameSeq=[];
 let level=0;
